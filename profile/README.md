@@ -5,7 +5,8 @@ CRC Runs Containers
 
 We provide you with
 
-   * a single node OpenShift cluster (OCP or OKD)
-   * a podman machine
+   * Single node OpenShift cluster ([OCP](https://www.redhat.com/en/technologies/cloud-computing/openshift) or [OKD](https://www.okd.io))
+   * [MicroShift](https://microshift.io); a small form factor OpenShift/Kubernetes optimized for edge computing
+   * or [Podman](https://podman.io) machine for running containers
 
 on either macOS, Windows or Linux
