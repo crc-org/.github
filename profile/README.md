@@ -1,4 +1,4 @@
-[![](https://avatars.githubusercontent.com/u/46589369?s=120)](https://github.com/code-ready/)
+[![](https://avatars.githubusercontent.com/u/46589369?s=120)](https://github.com/crc-org/)
 
 CRC Runs Containers
 ===================
