@@ -7,6 +7,10 @@ We provide you with
 
    * Single node OpenShift cluster ([OCP](https://www.redhat.com/en/technologies/cloud-computing/openshift) or [OKD](https://www.okd.io))
    * [MicroShift](https://microshift.io); a small form factor OpenShift/Kubernetes optimized for edge computing
-   * or [Podman](https://podman.io) machine for running containers
 
 on either macOS, Windows or Linux
+
+## Documentation
+
+- [Getting Started Guide](https://crc.dev/docs)
+- [Engineering docs](https://github.com/crc-org/engineering-docs/tree/main)
