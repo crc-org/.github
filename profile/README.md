@@ -5,8 +5,8 @@ CRC Runs Containers
 
 We provide you with
 
-   * Single node OpenShift cluster ([OCP](https://www.redhat.com/en/technologies/cloud-computing/openshift) or [OKD](https://www.okd.io))
-   * [MicroShift](https://microshift.io); a small form factor OpenShift/Kubernetes optimized for edge computing
+   * OpenShift Local - single node OpenShift cluster ([OCP](https://www.redhat.com/en/technologies/cloud-computing/openshift) or [OKD](https://www.okd.io))
+   * [MicroShift](https://microshift.io) - a small form factor OpenShift/Kubernetes optimized for edge computing
 
 on either macOS, Windows or Linux
 
