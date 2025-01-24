@@ -8,7 +8,7 @@ We provide you with
    * OpenShift Local - single node OpenShift cluster ([OCP](https://www.redhat.com/en/technologies/cloud-computing/openshift) or [OKD](https://www.okd.io))
    * [MicroShift](https://microshift.io) - a small form factor OpenShift/Kubernetes optimized for edge computing
 
-on either macOS, Windows or Linux
+on either macOS, Windows or Linux, primarily aimed at a developer's use-case.
 
 ## Documentation
 
